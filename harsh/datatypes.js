@@ -1,5 +1,14 @@
 "use strict"; //teat all JS code as never version
 
+
+// alert ( 3 + 3 ) // we are using nodejs , not browser
+
+console.log(3
+
+    +3) // cod readability should  be high
+
+console.log("HARSH")
+
 // alert ( 3 + 3 ) // we are using nodejs , not browser
 
 console.log(3
